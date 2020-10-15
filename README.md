@@ -2,7 +2,7 @@
 Tic-Tac-Toe game with Java and also GUI with JavaFx
 This Tic-Tac-Toe game with JAVA and also there are two option
 -the first option is:
-you can play with Artifactual Intelligence, which is unbeaten.
+you can play with Artificial Intelligence, which is unbeaten.
 with the minimax algorithm:
 https://en.wikipedia.org/wiki/Minimax
 -the second option is:
